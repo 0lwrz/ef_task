@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|c:\\users\\ys199\\source\\repos\\ef\\ef_task\\ef_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|solutionrelative:ef_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|c:\\users\\ys199\\source\\repos\\ef\\ef_task\\ef_task\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|solutionrelative:ef_task\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|c:\\users\\ys199\\source\\repos\\ef\\ef_task\\ef_task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|solutionrelative:ef_task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|c:\\users\\ys199\\source\\repos\\ef\\ef_task\\ef_task\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3686E615-EF91-404E-AAE5-1A0FB92050D3}|EF_TASK\\EF_TASK.csproj|solutionrelative:ef_task\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EF_Task\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Models\\Order.cs",
+              "RelativeToolTip": "EF_Task\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:22:11.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Configurations\\OrderConfigurations.cs",
+              "RelativeDocumentMoniker": "EF_Task\\Configurations\\OrderConfigurations.cs",
+              "ToolTip": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Configurations\\OrderConfigurations.cs",
+              "RelativeToolTip": "EF_Task\\Configurations\\OrderConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:21:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EF_Task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EF_Task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:20:37.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ys199\\source\\repos\\EF\\EF_Task\\EF_Task\\Program.cs",
+              "RelativeToolTip": "EF_Task\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:20:09.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
